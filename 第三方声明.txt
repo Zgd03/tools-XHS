@@ -1,0 +1,11 @@
+本程序使用 Microsoft .NET、WPF、Microsoft Edge WebView2 SDK 及系统 WebView2 Runtime。
+各组件遵循对应发行方的许可条款；.NET 与 WPF 源码采用 MIT 许可，WebView2 SDK 和 Runtime 适用微软随组件提供的许可。
+官方项目及许可来源：
+https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+https://github.com/dotnet/wpf/blob/main/LICENSE.TXT
+https://www.nuget.org/packages/Microsoft.Web.WebView2/
+
+本项目参考旧工具的 Excel 列名、数据匹配规则、官方接口路径及业务约定。
+旧项目基于 cv-cat/Spider_XHS：https://github.com/cv-cat/Spider_XHS
+新版未分发旧项目的 Python / Node.js 运行环境及签名算法文件。
+浏览器内 x-s-common 编码按当前官方页面请求中的会话字段重新编码；没有复制旧项目的固定设备材料。
